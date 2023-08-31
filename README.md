@@ -1,12 +1,13 @@
-**完整代码收费  加qq  931708230 或者加微信  ynwwxid**
+### 作者QQ：1556708905(支持修改、 部署调试、 支持代做毕设)
 
-**接毕业设计和论文**
+#### 支持代做任何毕设论、接网站建设、小程序、H5、APP、各种系统等
+
+**毕业设计所有选题地址 [https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 **博客地址：[https://blog.csdn.net/2303_76227485/article/details/128649854](https://blog.csdn.net/2303_76227485/article/details/128649854)**
 
 **视频演示：[https://www.bilibili.com/video/BV14u4y1o7qx](https://www.bilibili.com/video/BV14u4y1o7qx)**
 
-**毕业设计所有选题地址：[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
 ## 基于springboot+vue的宠物交易/领养系统 (源代码+数据库)
 
@@ -110,7 +111,6 @@
 6. 打开终端，执行npm install 依赖下载完成后执行 npm run dev或npm run serve,执行成功后会显示访问地址
 7. 访问  http://localhost:8082/home
 
-**需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
 
 ##### pet-trading文件夹：后端代码
 
